@@ -21,11 +21,7 @@ class User extends Authenticatable
     /**
      * Kolom yang boleh diisi (mass assignable)
      */
-    protected $fillable = [
-        'name',
-        'email',
-        'password',
-    ];
+    protected $fillable = ['name', 'email', 'age'];
 
     /**
      * Generate UUID saat model dibuat
