@@ -35,7 +35,7 @@ Project ini adalah RESTful API sederhana menggunakan Laravel untuk melakukan ope
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/username/user-api-laravel.git
+   git clone https://github.com/umarfaruqsyafar/user-api-laravel.git
    cd user-api-laravel
 
 2. Install dependency:
